@@ -1,1 +1,3 @@
-print("Hello git!")
+print("Hello Git!")
+
+print("Learning Git Stash")

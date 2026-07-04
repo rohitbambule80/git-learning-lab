@@ -1,3 +1,5 @@
-## Git Learning
+# Git Learning Lab
 
-This repository is created to practice Git and GitHub commands.
+This project is used to practice Git commands.
+
+Created from VS Code.
